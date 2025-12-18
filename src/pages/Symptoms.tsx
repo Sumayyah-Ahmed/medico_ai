@@ -606,7 +606,7 @@ export default function Symptoms() {
             Built for educational purposes • Not a substitute for professional medical advice
           </p>
           <p className="text-sm text-muted-foreground/60">
-            Made with ❤️ using React, Tailwind CSS & Framer Motion
+            Built by Sumayyah & powered by React
           </p>
         </motion.footer>
       </div>
