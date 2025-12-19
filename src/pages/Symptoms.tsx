@@ -338,7 +338,7 @@ export default function Symptoms() {
               animate={{ rotate: [0, 10, -10, 0] }}
               transition={{ duration: 2, repeat: Infinity, repeatDelay: 3 }}
             >
-              <Heart className="h-8 w-8 text-pink-500" />
+              
             </motion.div>
             <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">
               Health & Wellness Analyzer
@@ -347,7 +347,7 @@ export default function Symptoms() {
               animate={{ scale: [1, 1.2, 1] }}
               transition={{ duration: 2, repeat: Infinity }}
             >
-              <Sparkles className="h-6 w-6 text-yellow-500" />
+              
             </motion.div>
           </motion.div>
           <p className="text-muted-foreground text-lg">
