@@ -16,12 +16,12 @@ Results include a **symptom chart** and **suggestion chart**, which can be downl
 - **Hosting:** Netlify  
 
 ## Disclaimer  
-Medico‑AI provides **general health information only**. It is **not a substitute for professional medical advice, diagnosis, or treatment**.
+Medico‑AI provides general health information only. It is not a substitute for professional medical advice, diagnosis, or treatment.
 
 ## Live Demo  
 Visit the app: [https://patienthealthhub.netlify.app](https://patienthealthhub.netlify.app)
 
 ## Screenshots  
-![Home Page](src/images/home.png)  
-![Dark Mode](src/images/dark.png)  
+![Home Page](src/images/home.png)<br><br>
+![Dark Mode](src/images/dark.png)<br><br>
 ![Results Page](src/images/result.png)
