@@ -25,3 +25,7 @@ Visit the app: [https://patienthealthhub.netlify.app](https://patienthealthhub.n
 ![Home Page](src/images/home.png)<br><br>
 ![Dark Mode](src/images/dark.png)<br><br>
 ![Results Page](src/images/result.png)
+
+## Enjoyed This Project?
+If you find this project helpful or inspiring, please consider giving it a ⭐. It really motivates me to keep building. Thank you!
+
