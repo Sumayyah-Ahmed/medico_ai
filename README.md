@@ -15,7 +15,10 @@ Frontend: HTML, CSS, JavaScript
 
 AI Integration: API‑based medical assistant
 
+Others: Git, Github, VSCode, React, Node
+
 Hosting: Netlify
+
 
 ## Disclaimer
 Medico‑AI provides general health information only. It is not a substitute for professional medical advice, diagnosis, or treatment.
