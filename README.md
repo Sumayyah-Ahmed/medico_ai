@@ -10,9 +10,6 @@ Wellness & Prevention Tips – General guidance to support healthier daily habit
 
 Clean & Responsive UI – Designed for fast, accessible use on all devices.
 
-## Live Demo
-Visit the app: https://patienthealthhub.netlify.app
-
 ## Tech Stack
 Frontend: HTML, CSS, JavaScript
 
@@ -25,7 +22,9 @@ Medico‑AI provides general health information only. It is not a substitute for
 
 
 ## Live Demo
-![medico-ai Website Screenshot](images/home.png)<br><br>
-![medico-ai Website Screenshot](images/dark.png)<br><br>
-![medico-ai Website Screenshot](images/result.png)
+Visit the app: https://patienthealthhub.netlify.app
+
+![medico-ai Website Screenshot](src/images/home.png)<br><br>
+![medico-ai Website Screenshot](src/images/dark.png)<br><br>
+![medico-ai Website Screenshot](src/images/result.png)
 
