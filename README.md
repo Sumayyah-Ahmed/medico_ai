@@ -1,33 +1,27 @@
-# 🩺 Medico‑AI — Patient Health Hub
-An AI‑powered health assistant that helps users understand symptoms, explore possible conditions, and receive wellness guidance in a simple, friendly interface. Results show the symptoms chart along with suggestions chart. file could be downloaded or shared with others. 
+# 🩺 Medico‑AI — Patient Health Hub  
+An AI-powered health assistant that helps users understand symptoms, explore possible conditions, and receive wellness guidance in a simple, friendly interface.  
 
-## Features
-AI Symptom Checker – Users describe their symptoms in natural language and receive instant, AI‑generated insights.
+Results include a **symptom chart** and **suggestion chart**, which can be downloaded or shared with others.
 
-Condition Explanations – Clear, easy‑to‑understand medical information for better awareness.
+## Features  
+- **AI Symptom Checker** – Users describe their symptoms in natural language and receive instant, AI-generated insights.  
+- **Condition Explanations** – Clear, easy-to-understand medical information for better awareness.  
+- **Wellness & Prevention Tips** – General guidance to support healthier daily habits.  
+- **Clean & Responsive UI** – Designed for fast, accessible use on all devices.  
 
-Wellness & Prevention Tips – General guidance to support healthier daily habits.
+## Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript  
+- **AI Integration:** API-based medical assistant  
+- **Other Tools:** Git, GitHub, VS Code, React, Node.js  
+- **Hosting:** Netlify  
 
-Clean & Responsive UI – Designed for fast, accessible use on all devices.
+## Disclaimer  
+Medico‑AI provides **general health information only**. It is **not a substitute for professional medical advice, diagnosis, or treatment**.
 
-## Tech Stack
-Frontend: HTML, CSS, JavaScript
+## Live Demo  
+Visit the app: [https://patienthealthhub.netlify.app](https://patienthealthhub.netlify.app)
 
-AI Integration: API‑based medical assistant
-
-Others: Git, Github, VSCode, React, Node
-
-Hosting: Netlify
-
-
-## Disclaimer
-Medico‑AI provides general health information only. It is not a substitute for professional medical advice, diagnosis, or treatment.
-
-
-## Live Demo
-Visit the app: https://patienthealthhub.netlify.app
-
-![medico-ai Website Screenshot](src/images/home.png)<br><br>
-![medico-ai Website Screenshot](src/images/dark.png)<br><br>
-![medico-ai Website Screenshot](src/images/result.png)
-
+## Screenshots  
+![Home Page](src/images/home.png)  
+![Dark Mode](src/images/dark.png)  
+![Results Page](src/images/result.png)
