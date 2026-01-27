@@ -1,7 +1,7 @@
 # 🩺 Medico‑AI — Patient Health Hub  
 An AI-powered health assistant that helps users understand symptoms, explore possible conditions, and receive wellness guidance in a simple, friendly interface.  
 
-Results include a **symptom chart** and **suggestion chart**, which can be downloaded or shared with others.
+Results include a symptom chart and suggestion chart, which can be downloaded or shared with others.
 
 ## Features  
 - **AI Symptom Checker** – Users describe their symptoms in natural language and receive instant, AI-generated insights.  
