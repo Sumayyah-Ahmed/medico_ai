@@ -1,7 +1,7 @@
-🩺 Medico‑AI — Patient Health Hub
+# 🩺 Medico‑AI — Patient Health Hub
 An AI‑powered health assistant that helps users understand symptoms, explore possible conditions, and receive wellness guidance in a simple, friendly interface.
 
-🌟 Features
+## 🌟 Features
 AI Symptom Checker – Users describe their symptoms in natural language and receive instant, AI‑generated insights.
 
 Condition Explanations – Clear, easy‑to‑understand medical information for better awareness.
@@ -10,20 +10,20 @@ Wellness & Prevention Tips – General guidance to support healthier daily habit
 
 Clean & Responsive UI – Designed for fast, accessible use on all devices.
 
-🚀 Live Demo
+## 🚀 Live Demo
 Visit the app: https://patienthealthhub.netlify.app
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
 
 AI Integration: API‑based medical assistant
 
 Hosting: Netlify
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 Medico‑AI provides general health information only. It is not a substitute for professional medical advice, diagnosis, or treatment.
 
-📬 Contact
+## 📬 Contact
 For collaboration or project inquiries:
 Sumayyah Aziz Ahmed  
 Founder, Aziziyah
